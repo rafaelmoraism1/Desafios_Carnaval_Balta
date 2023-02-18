@@ -4,18 +4,17 @@
     {
         public static void Main(string[] args)
         {
-            double calculoImc = 0;
             Console.Clear();
             Console.WriteLine("Vamos Calcular seu ICM!");
             Console.WriteLine("Obs: Peso em Kg => Ex: 72 / Altura em metros => Ex: 1,70");
             Console.WriteLine("========================================================");
 
             Console.WriteLine("Digite seu PESO (kg): ");
-            double peso = Convert.ToInt32(Console.ReadLine());
+            double peso = double.Parse(Console.ReadLine());
             Console.WriteLine("");
             Console.WriteLine("Digite sua ALTURA (m): ");
             double altura = double.Parse(Console.ReadLine());
-            calculoImc = peso / (altura * altura);
+            double calculoImc = peso / (altura * altura);
             Console.WriteLine("-----------------------------------------------");
 
             Console.WriteLine($"-> Seu IMC é {calculoImc.ToString("F2")} Kg/m2");
