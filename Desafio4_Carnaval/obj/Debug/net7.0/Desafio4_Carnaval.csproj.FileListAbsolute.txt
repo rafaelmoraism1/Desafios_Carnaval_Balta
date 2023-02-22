@@ -1,0 +1,15 @@
+C:\cursobalta_Exercicios\Desafio4_Carnaval\bin\Debug\net7.0\Desafio4_Carnaval.exe
+C:\cursobalta_Exercicios\Desafio4_Carnaval\bin\Debug\net7.0\Desafio4_Carnaval.deps.json
+C:\cursobalta_Exercicios\Desafio4_Carnaval\bin\Debug\net7.0\Desafio4_Carnaval.runtimeconfig.json
+C:\cursobalta_Exercicios\Desafio4_Carnaval\bin\Debug\net7.0\Desafio4_Carnaval.dll
+C:\cursobalta_Exercicios\Desafio4_Carnaval\bin\Debug\net7.0\Desafio4_Carnaval.pdb
+C:\cursobalta_Exercicios\Desafio4_Carnaval\obj\Debug\net7.0\Desafio4_Carnaval.csproj.AssemblyReference.cache
+C:\cursobalta_Exercicios\Desafio4_Carnaval\obj\Debug\net7.0\Desafio4_Carnaval.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursobalta_Exercicios\Desafio4_Carnaval\obj\Debug\net7.0\Desafio4_Carnaval.AssemblyInfoInputs.cache
+C:\cursobalta_Exercicios\Desafio4_Carnaval\obj\Debug\net7.0\Desafio4_Carnaval.AssemblyInfo.cs
+C:\cursobalta_Exercicios\Desafio4_Carnaval\obj\Debug\net7.0\Desafio4_Carnaval.csproj.CoreCompileInputs.cache
+C:\cursobalta_Exercicios\Desafio4_Carnaval\obj\Debug\net7.0\Desafio4_Carnaval.dll
+C:\cursobalta_Exercicios\Desafio4_Carnaval\obj\Debug\net7.0\refint\Desafio4_Carnaval.dll
+C:\cursobalta_Exercicios\Desafio4_Carnaval\obj\Debug\net7.0\Desafio4_Carnaval.pdb
+C:\cursobalta_Exercicios\Desafio4_Carnaval\obj\Debug\net7.0\Desafio4_Carnaval.genruntimeconfig.cache
+C:\cursobalta_Exercicios\Desafio4_Carnaval\obj\Debug\net7.0\ref\Desafio4_Carnaval.dll

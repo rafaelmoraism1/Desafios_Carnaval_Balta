@@ -9,9 +9,9 @@
             Console.WriteLine("--->Proporção abaixo de 70% - Etanol / Proporção acima de 70% - Gaolina");
             Console.WriteLine("--------------------------------------------------------------------------");
             Console.WriteLine("Digite o valor da GASOLINA (R$): ");
-            decimal gasolina = decimal.Parse(Console.ReadLine());
+            decimal.TryParse(Console.ReadLine(), out decimal gasolina);
             Console.WriteLine("Digite o valor do ETANOL(R$): ");
-            decimal etanol = decimal.Parse(Console.ReadLine());
+            decimal.TryParse(Console.ReadLine(), out decimal etanol);
             decimal calculo = (etanol / gasolina) * 100;
             Console.WriteLine("--------------------------------------------------------------------------");
             Console.WriteLine($"A proporção é de {calculo.ToString("F2")}%");
