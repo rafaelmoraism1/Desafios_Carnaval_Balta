@@ -19,6 +19,8 @@ dotnet run --project <NOME_PROJETO>
 | <a href="desafio03">Desafio 3</a> | Desafio3_Carnaval | ``` dotnet run --project Desafio3_Carnaval ``` 
 | <a href="desafio04">Desafio 4</a> | Desafio4_Carnaval | ``` dotnet run --project Desafio4_Carnaval ``` 
 | <a href="desafio06">Desafio 6</a> | Desafio6_Carnaval| ``` dotnet run --project Desafio6_Carnaval ```
+| <a href="desafio06">Desafio 7</a> | Desafio7_Carnaval| ``` dotnet run --project Desafio7_Carnaval ```
+
 <br/>
 <br/>
 
@@ -72,4 +74,18 @@ a = K, n = J, d = A, r = T, e = L
 ```sh
 Input: andre
 Output: KJATL
+```
+## 🤯 Desafio 07 <br><a name="desafio07"></a>
+
+Escreva um programa que imprime uma pirâmide na tela, apenas com os números da sequência de Fibonacci.
+
+**Resultado esperado**
+```sh
+1    
+1    1    
+1    1    2    
+1    1    2    3    
+1    1    2    3    5    
+1    1    2    3    5    8    
+1    1    2    3    5    8    13
 ```
