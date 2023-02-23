@@ -5,7 +5,7 @@
 ## 🚀 Executando o projeto
 Faça o download do código executando o seguinte comando:
 ```git
-git clone https://github.com/sk9g3/desafio-carnaval-2023.git
+git clone https://github.com/rafaelmoraism1/Desafios_Carnaval_Balta
 ```
 Navegue até a diretório do projeto e execute o seguinte comando:
 ```
